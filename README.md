@@ -40,38 +40,33 @@ Resume/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ankur083/Resume.git
+   
 Open the folder:
 
 cd Resume
 Open index.html in any web browser
 
-🎯 Purpose of This Project
+🎯 Purpose of This Project:
+
 Practice HTML & CSS fundamentals
-
 Build a professional resume website
-
 Showcase frontend skills for placements
 
-📌 Future Improvements
+📌 Future Improvements:
+
 Add animations using CSS
-
 Improve responsiveness
-
 Deploy using GitHub Pages
-
 Add print-friendly resume layout
 
 👨‍🎓 About Me
+
 Name: Ankur Raj
-
 Course: MCA (4th Semester)
-
 College: NIT Kurukshetra
-
 Career Goal: Software Developer
 
-🔗 Live Demo (Optional)
-👉 Add GitHub Pages link after deployment
+
 
 📬 Contact
 GitHub: https://github.com/Ankur083
