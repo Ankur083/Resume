@@ -64,6 +64,7 @@ body {
   border-radius: 10%;
   object-fit: cover;
   border: 5px solid #0a1e8a; 
+  
 }
 
 
@@ -80,6 +81,12 @@ body {
   gap: 8px;
   margin-bottom: 6px;
 }
+
+.audio {
+  width: 160px;   
+  height: 28px;
+}
+
 
 .contact-item a,
 .contact-item span {
@@ -179,8 +186,6 @@ hr {
   line-height: 1.4;
 }
 
-
-
 .projects-section {
   margin-bottom: 30px;
 }
@@ -216,6 +221,11 @@ hr {
   margin-bottom: 4px;
 }
 
+
+.project-center {
+  text-decoration: underline;
+}
+
 .project-right {
   width: 30%;
   text-align: right;
@@ -245,13 +255,20 @@ hr {
   margin-bottom: 10px;
 }
 
-.skill-pill {
+.skill {
   border: 1px solid #cfcfcf;
   border-radius: 12px;
   padding: 6px 14px;
   font-size: 14px;
   background: #fff;
   white-space: nowrap;
+}
+
+.skill:hover{
+  background-color: #6f7074;
+  color: #fff;
+  border-color: #57575a;
+  cursor: default;
 }
 
 
